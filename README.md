@@ -4,10 +4,9 @@
 
 ## I am IT enthusiast, constantly learning something new.
 
-- I am currently working on my projects to put on CV.
-- Learning HTML, CSS, JS, API, Databases, QA Tools.
-- My goal is to first become Manual Tester and in long run become Automation Tester.
-- Any mesages, tips, criticism is welcome. I am looking forward to improve.
+- I am currently working on my portfolio. 🔨
+- Learning HTML, CSS, JS, API, QA Tools. 📚
+- My goal is to become Manual Tester and in long run become Automation Tester. 🔥
 
 ## 📜 Programming Languages
 
@@ -26,7 +25,7 @@
 
 ## 📝 [Check my QA portfolio project][portfolio-website]
 
-[<img align="left" width="45%" src="https://github.com/SeaaRaider/Images/blob/main/SS%20Homepage.png">][portfolio-website] [<img align="right" width="45%" src="https://github.com/SeaaRaider/Images/blob/main/SS%20Weather%20page.png">][portfolio-website]
+[<img align="left" width="49%" src="https://github.com/SeaaRaider/Images/blob/main/SS%20Homepage.png">][portfolio-website] [<img align="right" width="49%" src="https://github.com/SeaaRaider/Images/blob/main/SS%20Weather%20page.png">][portfolio-website]
 
 <br>
 <br>
