@@ -25,11 +25,11 @@
 
 ## [Check my QA portfolio project][portfolio-website]
 
-[<img align="left" src="https://github.com/SeaaRaider/Images/blob/main/SS%20Homepage.png">][portfolio-website]
+[<img src="https://github.com/SeaaRaider/Images/blob/main/SS%20Homepage.png">][portfolio-website]
 <br>
-[<img align="left" src="https://github.com/SeaaRaider/Images/blob/main/SS%20Weather%20page.png">][portfolio-website]
+[<img src="https://github.com/SeaaRaider/Images/blob/main/SS%20Weather%20page.png">][portfolio-website]
 <br>
-[<img align="left" src="https://github.com/SeaaRaider/Images/blob/main/SS%20Dokumenty%20Excel.png">][portfolio-website]
+[<img src="https://github.com/SeaaRaider/Images/blob/main/SS%20Dokumenty%20Excel.png">][portfolio-website]
 
 
 <br>
