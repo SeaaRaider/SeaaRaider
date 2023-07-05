@@ -21,10 +21,10 @@
 [<img align="left" width="26px" src="https://github.com/SeaaRaider/Images/blob/main/icons8-visual-studio-code-2019-48.png"/>][github]
 [<img align="left" width="26px" src="https://github.com/SeaaRaider/Images/blob/main/icons8-postman-is-the-only-complete-api-development-environment-48.png"/>][github]
 [<img align="left" width="26px" src="https://github.com/SeaaRaider/Images/blob/main/icons8-github-48.png"/>][github]
+<br>
 
-## Check my QA portfolio project
+## [Check my QA portfolio project][portfolio-website]
 
-- [My basic weather site with A-Z QA documentation][portfolio-website]
 [<img align="left" src="https://github.com/SeaaRaider/Images/blob/main/SS%20Homepage.png">][portfolio-website]
 [<img align="left" src="https://github.com/SeaaRaider/Images/blob/main/SS%20Weather%20page.png">][portfolio-website]
 
