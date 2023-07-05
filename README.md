@@ -5,7 +5,7 @@
 - I am currently working on my projects to put on CV.
 - Learning HTML, CSS, JS, API, Databases, QA Tools.
 - My goal is to first become Manual Tester and in long run become Automation Tester.
-- Any mesages, tips, criticism is welcome. I am looking forward to improving.
+- Any mesages, tips, criticism is welcome. I am looking forward to improve.
 
 ## Programming Languages
 
