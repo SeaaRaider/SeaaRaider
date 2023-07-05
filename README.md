@@ -28,9 +28,6 @@
 [<img src="https://github.com/SeaaRaider/Images/blob/main/SS%20Homepage.png">][portfolio-website]
 <br>
 [<img src="https://github.com/SeaaRaider/Images/blob/main/SS%20Weather%20page.png">][portfolio-website]
-<br>
-[<img src="https://github.com/SeaaRaider/Images/blob/main/SS%20Dokumenty%20Excel.png">][portfolio-website]
-
 
 <br>
 <br>
