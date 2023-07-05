@@ -18,6 +18,4 @@
 - <p><img align="center" width="26px" src="https://github.com/SeaaRaider/Images/blob/main/icons8-sql-48.png" /> Beginner</p>
 
 ## Tools
-<img align="center" width="26px" src="https://github.com/SeaaRaider/Images/blob/main/icons8-visual-studio-code-2019-48.png"/>
-<img align="center" width="26px" src="https://github.com/SeaaRaider/Images/blob/main/icons8-postman-is-the-only-complete-api-development-environment-48.png"/>
-<img align="center" width="26px" src="https://github.com/SeaaRaider/Images/blob/main/icons8-github-48.png"/>
+<img align="center" width="26px" src="https://github.com/SeaaRaider/Images/blob/main/icons8-visual-studio-code-2019-48.png"/><img align="center" width="26px" src="https://github.com/SeaaRaider/Images/blob/main/icons8-postman-is-the-only-complete-api-development-environment-48.png"/><img align="center" width="26px" src="https://github.com/SeaaRaider/Images/blob/main/icons8-github-48.png"/>
