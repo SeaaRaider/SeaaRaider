@@ -26,7 +26,7 @@
 
 ## 📝 [Check my QA portfolio project][portfolio-website]
 
-[<img align="left" width="46%" src="https://github.com/SeaaRaider/Images/blob/main/SS%20Homepage.png">][portfolio-website] [<img align="right" width="46%" src="https://github.com/SeaaRaider/Images/blob/main/SS%20Weather%20page.png">][portfolio-website]
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 
 <br>
 <br>
