@@ -34,7 +34,7 @@
 [<img width="45%" src="https://github.com/SeaaRaider/Images/blob/main/Wymagania.gif"/>][portfolio-website] [<img width="45%" src="https://github.com/SeaaRaider/Images/blob/main/Plan%20testów.gif"/>][portfolio-website]
 ##
 
-[<img width="45%" src="https://github.com/SeaaRaider/Images/blob/main/Testy.gif"/>][portfolio-website]
+[<img src="https://github.com/SeaaRaider/Images/blob/main/Testy.gif"/>][portfolio-website]
 
 
 
