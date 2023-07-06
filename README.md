@@ -9,7 +9,7 @@
 - Learning HTML, CSS, JS, API, QA Tools. 📚
 - My goal is to become Manual Tester and in long run become Automation Tester. 🔥
 
-## 📜 Programming Languages 📜
+## 📜 Programming Languages and skills 📜
 
 - <p><img align="center" width="26px"  src="https://github.com/SeaaRaider/Images/blob/main/icons8-c-sharp-logo-2-48%20(1).png" /> Intermediate</p>
 - <p><img align="center" width="26px" src="https://github.com/SeaaRaider/Images/blob/main/icons8-c%2B%2B-48.png" /> Beginner</p>
