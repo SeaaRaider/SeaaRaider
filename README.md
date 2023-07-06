@@ -28,8 +28,11 @@
 ## 📝 [Check my QA portfolio project][portfolio-website]
 
 [<img width="45%" src="https://github.com/SeaaRaider/Images/blob/main/Home-Weather.gif"/>][portfolio-website] [<img width="45%" src="https://github.com/SeaaRaider/Images/blob/main/Weather%20box.gif"/>][portfolio-website]
+##
 [<img width="45%" src="https://github.com/SeaaRaider/Images/blob/main/Wymagania.gif"/>][portfolio-website] [<img width="45%" src="https://github.com/SeaaRaider/Images/blob/main/Plan%20testów.gif"/>][portfolio-website]
-[<img width="45%" src="https://github.com/SeaaRaider/Images/blob/main/Testy.gif"/>][portfolio-website]
+##
+[<img width="45%" align="center" src="https://github.com/SeaaRaider/Images/blob/main/Testy.gif"/>][portfolio-website]
+
 
 
 <br>
